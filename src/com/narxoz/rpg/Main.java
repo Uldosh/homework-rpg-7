@@ -1,10 +1,5 @@
 package com.narxoz.rpg;
 
-/**
- * Entry point for Homework 7 — The Cursed Dungeon: Boss Encounter System.
- *
- * Build your heroes, boss, observers, and engine here, then run the encounter.
- */
 public class Main {
 
     public static void main(String[] args) {
