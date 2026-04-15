@@ -89,7 +89,7 @@ public class DungeonBoss implements GameObserver{
         };
 
         String oldName = strategy.getName();
-        strategy = newStrategy; 
+        strategy = newStrategy;
 
         System.out.printf("%n  *** %s enters Phase %d! Strategy: [%s] → [%s] ***%n%n",
                 name, newPhase, oldName, strategy.getName());
